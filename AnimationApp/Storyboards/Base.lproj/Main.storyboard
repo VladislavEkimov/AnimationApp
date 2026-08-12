@@ -64,8 +64,8 @@
                         </userDefinedRuntimeAttributes>
                     </view>
                     <connections>
-                        <outlet property="animateView" destination="u76-46-o7f" id="pqC-Gc-fMN"/>
                         <outlet property="animationDescription" destination="lh3-yd-t0J" id="9Oe-xg-PDu"/>
+                        <outlet property="animationView" destination="u76-46-o7f" id="pqC-Gc-fMN"/>
                         <outlet property="nextAnimation" destination="mCe-EC-7Zr" id="myO-ae-CZu"/>
                     </connections>
                 </viewController>
